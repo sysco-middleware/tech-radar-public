@@ -6,6 +6,10 @@ Technologies can move in and out of a radar and through the different rings depe
 
 When a technology appears / disappears from a radar or moves through the rings, we call it a "blip".
 
+# Versioning
+
+[CHANGELOG](CHANGELOG.md)
+
 ## Quadrants
 
 Quadrants allow us to organize technologies in general categories that make sense to us and which are pretty much self-explaining. This dimension exists mainly for improved visualization purposes, and shouldn't have too much influence on the specific discussions related to one or more technologies. This means that we won't spend a lot of time defining these categories or trying to decide where to place technologies in cases where there is some ambiguity. Quadrants can also be customized and will vary between different radars.
