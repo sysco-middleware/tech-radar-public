@@ -2,7 +2,7 @@ v1.0.0 (29/04/2020)
 
 - CVPartner_Exporter Radar
 
-v1.0.1 (29/04/2020)
+v1.0.1 (TBD)
 
 - Enabled search feature
   - Added tooltips when autocomplete options are focused
