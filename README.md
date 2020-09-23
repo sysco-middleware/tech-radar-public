@@ -64,31 +64,3 @@ we need to know the full story, we will track documentation, changelogs, and use
 
 New technology can be documented without being added to a Radar yet.
 
-### CVPartner integration
-
-CVPartner is currently our main source of truth for understanding how technological skills & competences are distributed within Sysco. 
-
-This is how the configuration for mapping the exported data from CVPartner to a TechRadar looks like currently:
-
-```
-"ringCriteria": {
-    "adopt": 16,
-    "trial": 12,
-    "assess": 8,
-    "hold": 3
-  },
-  "quadrants": {
-    "architecture & standards": [
-      "Metoder", "Project Methodology", "Modellering", "Standarder"
-    ],
-    "infrastructure & tools":  [
-      "Applikasjoner", "Cloud Infrastructure", "Hardware", "Infrastruktur", "Testing", "Tools", "Verktøy"
-    ],
-    "data management & platform":  [
-      "Databaser", "Datavarehus", "Integrasjon", "Mellomvare", "Visualisering"
-    ],
-    "languages & frameworks":  [
-      "Programmeringsspråk", "Rammeverk", "Teknologier"
-    ]
-  }
-  ```
